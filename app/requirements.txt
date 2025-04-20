@@ -1,6 +1,6 @@
 Flask==2.3.2
-tensorflow-macos==2.10.0
-tensorflow-metal==0.6.0
+tensorflow==2.10.0
+keras==2.10.0
 numpy
 opencv-python
 imageio
