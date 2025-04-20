@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Conda envs
+.conda/
+env/
+venv/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Model & Data Files
+*.h5
+*.zip
+data/
+models/
+
+# Uploads (user-generated)
+app/uploads/*
+
+# OS files
+.DS_Store
